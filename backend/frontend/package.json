@@ -1,0 +1,7 @@
+{
+  "name": "trading-bot-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'Starting dev server...' && exit 0"
+  }
+}
